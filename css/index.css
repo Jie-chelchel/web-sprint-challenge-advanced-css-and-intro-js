@@ -135,7 +135,7 @@ button:hover{
     width:100%;
 }
 
-/***************** @media *****************************/
+/***************** @media Start Here*****************************/
 
 @media (max-width:500px) {
   
@@ -172,10 +172,9 @@ button:hover{
         margin-top:2rem;
         margin-bottom:0.5rem ;
         width: 98%;
-        /* background-size: auto; */
         background-position:top 58% right 55%;	
         background-repeat: no-repeat;
-        height: 22vh;
+        height: 28vh;
        
     }
  
