@@ -167,8 +167,18 @@ button:hover{
     .title-container hr{
         width:100%;
     }
-  
+   
+    .title-container div {	
+        background-position:  right 55%  top 58%;	
+        background-repeat: no-repeat;
+ 
+    }
 
+    img {	
+        
+      
+        border-radius: 5%;	
+    }
     h1{
         font-size:3rem;
         letter-spacing: 1px;
@@ -189,11 +199,11 @@ button:hover{
     }
     .artist img{
         width:80%;
-        height:20vh;
+        height:18vh;
         padding-bottom: 0.5rem;
     }
     .artist{
-        width:60%;
+        width:68%;
         text-align:center;
         padding-top:0.8rem;
     }
